@@ -1,2 +1,2 @@
 hitlist
-![](list.gif)
+![](hl.gif)
